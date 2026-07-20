@@ -47,6 +47,8 @@ SOURCE_URLS = [
     "https://epg.pw/test_channels_hong_kong.m3u",
     "https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8",
     "https://raw.githubusercontent.com/MercuryZz/IPTVN/refs/heads/Files/GAT.m3u"
+    "https://epg.pw/test_channels_hong_kong.m3u"
+    "https://epg.pw/test_channels_macau.m3u"
 ]
 
 # 2. 包含關鍵字 (必須包含這些字才抓取)
